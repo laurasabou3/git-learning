@@ -1,4 +1,4 @@
-THIS IS GITHUB VERSION.
+VERSION FROM MASTER
 Second line.
 Third line.
 Forths
