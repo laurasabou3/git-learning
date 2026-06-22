@@ -1,4 +1,4 @@
-THIS IS GITHUB VERSION.
+VERSION FROM FEATURE BRANCH
 Second line.
 Third line.
 Forths
