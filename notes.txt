@@ -1,4 +1,4 @@
-VERSION FROM FEATURE BRANCH
+MASTER VERSION FINAL
 Second line.
 Third line.
 Forths
