@@ -1,7 +1,8 @@
 FEATURE BRANCH VERSION FINAL
 Second line.
 EXERSEZ1
-EXERSEZ2 modificat in github
+EXERSEZ2 modificat in GitHub
+EXERSEZ2 modificam pe NewBranchFeature si urcam branch-ul
 Forths
 Working on login feature
 
